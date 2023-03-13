@@ -1,2 +1,1 @@
-<?php
-echo 'test';
+<?php //silent is gold
